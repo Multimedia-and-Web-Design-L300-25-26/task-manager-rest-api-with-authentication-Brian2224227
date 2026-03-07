@@ -31,5 +31,4 @@ describe("Auth Routes", () => {
 
     token = res.body.token;
   });
-
 });
