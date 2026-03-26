@@ -12,5 +12,4 @@ import User from "../models/User.js";
 const authMiddleware = async (req, res, next) => {
   //  implement here
 };
-
 export default authMiddleware;
